@@ -1,0 +1,70 @@
+body{
+	background-image: url(https://github.com/SGalvez16/Q2SW2-Galvez-Selena/blob/184b731643e026c3882b83f78cd26551125227c1/robot.jpeg?raw=true);
+
+}
+
+
+h2{
+	text-align: center;
+}
+.custom-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: black;
+	opacity: 0.7;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 13px 12px 5px -3px rgba(173,182,222,0.75);
+	-webkit-box-shadow: 13px 12px 5px -3px rgba(173,182,222,0.75);
+	-moz-box-shadow: 13px 12px 5px -3px rgba(173,182,222,0.75);
+
+}
+* {
+    color: white;
+}
+footer{
+	text-align: center;
+}
+
+.navbar {
+    background-color: #09121b;
+    padding: 0.5rem 1rem;
+}
+
+.navbar-brand {
+    font-family: 'Montserratt';
+    font-size: 2rem;
+    color: #ffffff;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    color: #ffffff;
+    margin-right: 1rem;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.form-control {
+    width: 250px;
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid #ffffff;
+}
+
+.btn-outline-success {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.btn-outline-success:hover {
+    background-color: #28a745;
+    color: white;
+}
